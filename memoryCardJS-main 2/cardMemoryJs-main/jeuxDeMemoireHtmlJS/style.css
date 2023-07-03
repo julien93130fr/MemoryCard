@@ -1,0 +1,20 @@
+/* CSS pour réinitialiser les marges, les paddings et la boîte de dimension */
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border;
+}
+
+/* CSS pour le corps de la page */
+body
+{
+   background-image: url(./image/memory-gca6219ca4_1920.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+/* CSS pour le conteneur */
+.container
+{
+   padding-top: 250px;
+}
